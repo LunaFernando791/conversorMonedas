@@ -47,7 +47,7 @@ Este proyecto fue construido con las siguientes herramientas:
    API_KEY=tu_api_key_aqui
 3. Ejecuta el proyecto desde tu IDE favorito (IntelliJ IDEA, Eclipse) o mediante consola
 
-## 📸 Demostración (Opcional)
+## 📸 Demostración
 <img width="581" height="536" alt="image" src="https://github.com/user-attachments/assets/c0acff9f-a2db-4999-b944-12615ff48bf2" />
 
 ##✒️ Autores
