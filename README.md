@@ -40,3 +40,16 @@ Este proyecto fue construido con las siguientes herramientas:
 1. Clona el repositorio:
    ```bash
    git clone [https://github.com/LunaFernando791/conversorMonedas.git](https://github.com/LunaFernando791/conversorMonedas.git)
+
+2. Navega al directorio del proyecto y crea tu archivo .env en la raíz:
+   ```bash
+   # Dentro del archivo .env
+   API_KEY=tu_api_key_aqui
+3. Ejecuta el proyecto desde tu IDE favorito (IntelliJ IDEA, Eclipse) o mediante consola
+
+## 📸 Demostración (Opcional)
+<img width="581" height="536" alt="image" src="https://github.com/user-attachments/assets/c0acff9f-a2db-4999-b944-12615ff48bf2" />
+
+##✒️ Autores
+Fernando Luna - Desarrollador - [LunaFernando791](https://github.com/LunaFernando791)
+<p align="center">Hecho con 💙 en el curso de Backend de Alura</p>
