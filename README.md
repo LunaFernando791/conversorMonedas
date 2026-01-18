@@ -18,7 +18,6 @@ El objetivo principal es poner en práctica conocimientos sobre consumo de APIs,
 - **Conversión en tiempo real:** Obtiene las tasas de cambio actuales desde ExchangeRate-API.
 - **Múltiples monedas:** Soporte para Dólar (USD), Peso Argentino (ARS), Real Brasileño (BRL), y Peso Colombiano (COP).
 - **Interfaz de consola:** Menú interactivo y fácil de usar.
-- **Historial de conversión:** (Opcional: Si planeas agregarlo después).
 
 ## 🛠️ Tecnologías Utilizadas
 
