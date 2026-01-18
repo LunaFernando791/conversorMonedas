@@ -50,6 +50,6 @@ Este proyecto fue construido con las siguientes herramientas:
 ## 📸 Demostración
 <img width="581" height="536" alt="image" src="https://github.com/user-attachments/assets/c0acff9f-a2db-4999-b944-12615ff48bf2" />
 
-##✒️ Autores
+## ✒️ Autores
 Fernando Luna - Desarrollador - [LunaFernando791](https://github.com/LunaFernando791)
 <p align="center">Hecho con 💙 en el curso de Backend de Alura</p>
